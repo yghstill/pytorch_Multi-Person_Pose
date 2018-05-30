@@ -3,15 +3,19 @@ This is a pytorch version of Realtime_Multi-Person_Pose_Estimation, origin code 
 
 ## Introduction
 Code repo for reproducing 2017 CVPR Oral paper using pytorch.  
+## works
+- add python3
+- add video file demo
+- fix sone bug
 
 ## Results
 
 <p align="left">
-<img src="https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/blob/master/readme/result1.gif", width="720">
+<img src="https://github.com/still-wait/pytorch_Multi-Person_Pose/blob/master/result.png", width="720">
 </p>
 
 <p align="left">
-<img src="https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/blob/master/readme/result2.gif", width="720">
+<img src="https://github.com/still-wait/pytorch_Multi-Person_Pose/blob/master/readme/result2.gif", width="720">
 </p>
 
 ## Contents
